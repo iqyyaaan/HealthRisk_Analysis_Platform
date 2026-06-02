@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+HealthRiskApp/node_modules/
+frontend/node_modules/
+
+# Python
+python-api/venv/
+__pycache__/
+*.pyc
+.env
+
+# Firebase service account key — NEVER push this
+python-api/serviceAccountKey.json
+
+# Expo
+.expo/
+dist/
+
+# OS
+.DS_Store
